@@ -16,6 +16,17 @@ Analizar el desempeño de las tiendas para identificar cuál presenta los peores
 
 ---
 
+##  Propósito del análisis
+El propósito de este proyecto fue aplicar técnicas de **análisis de datos con Python** para responder a las siguientes preguntas:
+
+- 1. ¿Cuál es la facturación total de cada tienda?  
+- 2. ¿Qué categorías de productos son las más populares en cada tienda?  
+- 3. ¿Cuál es la valoración promedio de los clientes?  
+- 4. ¿Cuáles son los productos más y menos vendidos?  
+- 5. ¿Cuál es el costo o tiempo promedio de envío?
+
+Con estas métricas, se elaboró una recomendación final para el Sr. Juan.
+
 ## Librerías utilizadas
 - `pandas`
 - `seaborn`
@@ -23,9 +34,15 @@ Analizar el desempeño de las tiendas para identificar cuál presenta los peores
   
 
 ---
-## Ejecución
-1. Abrí el notebook en Google Colab.  
-2. Ejecutá todas las celdas en orden.
+## Instrucciones para ejecutar el notebook
+
+1. Abrí el archivo `.ipynb` en **Google Colab** o **Jupyter Notebook**.  
+2. Asegurate de tener instaladas las librerías necesarias:
+   ```bash
+   pip install pandas matplotlib
+3. Ejecutá todas las celdas en orden.
+4. El notebook cargará automáticamente los datos desde GitHub y generará las visualizaciones.
+
 
 ---   
 
@@ -51,13 +68,39 @@ Se calculó el tiempo medio de envío para evaluar la eficiencia logística.
 
 ---
 
-## Conclusión
-De acuerdo con los análisis, la **Tienda 4** es la menos eficiente en ventas, satisfacción y rendimiento general.  
-Por ello, se recomienda que el Sr. Juan considere vender esta tienda para invertir en un nuevo emprendimiento.
+##  Conclusión final
+
+De acuerdo con los resultados obtenidos, la **Tienda 4** muestra el **menor rendimiento global**, combinando bajos ingresos, menor valoración de clientes y menor volumen de ventas. 
+Por lo tanto, se recomienda al Sr. Juan considerar **vender la Tienda 4** y reinvertir el capital en su nuevo emprendimiento.
+
+Tras analizar los datos de las cuatro tiendas de Alura Store, se observa que la Tienda 4 presenta el menor desempeño general en varios indicadores clave:
+
+**- Ingreso total:** es la tienda con menor facturación total (≈ 1.038 millones, $1,038,375,700.00).
+
+**- Categorías y ventas:** muestra menor volumen de ventas en la mayoría de las categorías.
+
+**- Valoración promedio:** la satisfacción de los clientes es inferior respecto a las demás tiendas.
+
+**-  Costo de envío promedio:** registra un costo de envío similar o superior al promedio general, lo que reduce su competitividad.
+
+En conjunto, estos factores sugieren que la Tienda 4 es la menos eficiente dentro del grupo analizado.
+Por ello, se recomienda su venta como estrategia para liberar recursos e invertir en nuevas oportunidades.
+
+
 
 ---
 
+## Tecnologías utilizadas
 
+- Python
+
+- Pandas (para análisis de datos)
+
+- Matplotlib (para visualizaciones)
+
+- Google Colab (entorno de desarrollo)
+
+- GitHub (para control de versiones y publicación del proyecto)
 
 
 ---
