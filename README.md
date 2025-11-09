@@ -74,20 +74,51 @@ Se calculó el tiempo medio de envío para evaluar la eficiencia logística.
 
 ---
 
-### Ejemplo de gráficos e insights
+### Visualizaciones principales
 
-**1 Ingreso total por tienda**
-  
+#### 1. Ingresos total por tienda
+
+Descripción:
+Se calculó el ingreso total de cada tienda a partir del precio de los productos vendidos. Este indicador permite identificar cuál genera mayor facturación global.
+
+Gráfico:
+
 ![Ingreso total](Imagenes/grafico_ingresos.png)
 
-**2 Ventas por categoría**
+
+Conclusión:
+La Tienda 1 presenta el mayor ingreso total, lo que indica un mejor desempeño en ventas. En contraste, la Tienda 4 registra la menor facturación, reflejando una baja eficiencia comercial.
+
+
+
+#### 2. Ventas por categoría
+
+Descripción:
+Se agruparon los datos por categoría de producto para analizar qué tipo de productos tienen mayor demanda en cada tienda.
+
+Gráfico:
 
 ![Ventas por categoría](Imagenes/grafico_categorias.png)
 
-**3 Costo de envío promedio**
+
+Conclusión:
+Las categorías relacionadas con tecnología y accesorios concentran la mayoría de las ventas, mientras que otros segmentos muestran menor rotación, especialmente en la Tienda 4.
+
+#### 3. Costo de envío promedio por tienda
+
+Descripción:
+Se calculó el valor promedio del costo de envío que los clientes pagan en cada tienda. Este indicador ayuda a evaluar la eficiencia logística.
+
+Gráfico:
 
 ![Costo de envío promedio](Imagenes/grafico_envio.png)
 
+
+Conclusión:
+
+Las Tiendas 1 y 2 presentan los costos de envío promedio más altos, mientras que la Tienda 4 registra el valor más bajo ($23.459).
+Esto podría deberse a una estrategia logística más económica o a una menor distancia promedio de entrega.
+Sin embargo, pese a su menor costo de envío, la Tienda 4 continúa mostrando un menor volumen de ventas y una valoración de clientes más baja, lo que indica que el ahorro en envíos no se traduce en un mejor desempeño comercial.
 
 ---
 
@@ -110,6 +141,8 @@ Por ello, se recomienda al Sr. Juan considerar vender la Tienda 4 y reinvertir e
 
 Además, se sugiere revisar estrategias de precios, logística y atención al cliente para mejorar la rentabilidad y la percepción de valor en futuras operaciones.
 
+Este análisis permite tomar decisiones estratégicas basadas en datos, optimizando recursos y fortaleciendo el rendimiento general de la cadena Alura Store.
+
 
 
 ---
@@ -130,6 +163,11 @@ Además, se sugiere revisar estrategias de precios, logística y atención al cl
 ---
 
 ##  Autor
+
 **Ivana Papaño**  
+
 Desafío de Análisis de Datos - Alura LATAM
 
+Noviembre - 2025
+
+---
