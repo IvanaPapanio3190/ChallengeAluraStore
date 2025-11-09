@@ -50,21 +50,39 @@ Con estas métricas, se elaboró una recomendación final para el Sr. Juan.
 
 ### 1. Ingreso total por tienda
 Se sumaron los valores de la columna **Precio** en cada dataset.  
- *La Tienda 1 presentó el mayor ingreso total.*
+   *La Tienda 1 presentó el mayor ingreso total.*
 
 ### 2. Ventas por categoría
 Se agruparon los datos por **Categoría del Producto** para visualizar los productos más vendidos en cada tienda.
 
 ### 3. Valoración media por tienda
 Se calculó el promedio de las calificaciones.  
-👉 *La Tienda 3 obtuvo la mejor valoración promedio.*
-
+  *La Tienda 3 obtuvo la mejor valoración promedio.*
+   
 ### 4. Productos más y menos vendidos
 Se analizaron los productos con mayor y menor número de ventas.  
-👉 *Algunos productos muestran bajo rendimiento constante entre tiendas.*
+  *Algunos productos muestran bajo rendimiento constante entre tiendas.*
 
 ### 5. Envío promedio
 Se calculó el tiempo medio de envío para evaluar la eficiencia logística.
+  
+
+---
+
+### Ejemplo de gráficos e insights
+
+**1 Ingreso total por tienda**
+  
+![Ingreso total](./grafico_ingresos.png)
+
+**2 Ventas por categoría**
+
+![Ventas por categoría](./grafico_categorias.png)
+
+**3 Costo de envío promedio**
+
+![Costo de envío promedio](./grafico_envio.png)
+
 
 ---
 
