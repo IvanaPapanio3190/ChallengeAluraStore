@@ -78,15 +78,15 @@ Se calculó el tiempo medio de envío para evaluar la eficiencia logística.
 
 **1 Ingreso total por tienda**
   
-![Ingreso total](./grafico_i
+![Ingreso total](Imagenes/grafico_ingresos.png)
 
 **2 Ventas por categoría**
 
-![Ventas por categoría](./grafico_cat
+![Ventas por categoría](Imagenes/grafico_categorias.png)
 
 **3 Costo de envío promedio**
 
-![Costo de envío promedio](./grafico_en
+![Costo de envío promedio](Imagenes/grafico_envio.png)
 
 
 ---
